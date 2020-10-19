@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+
+.jumbotron {
+
+    background: url("/assets/bildfuerangular.jpg")  no-repeat center center;
+
+            color: white;
+
+            background-size: cover;
+
+   }
+
